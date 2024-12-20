@@ -1,0 +1,4 @@
+Assets/school.glb filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.18/.Runtime/libburst-llvm-16.dylib[[:space:]]is[[:space:]]124.62[[:space:]]MB filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/9d/9dda0f847e4217b048fc485900e14c36 filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.18/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
